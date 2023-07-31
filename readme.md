@@ -50,3 +50,21 @@ git rm "file"
 git restore --staged "file"
 ## git discart changes
 git restore "file"
+
+## git ignore file
+.gitignore > "env" ".node_modules"
+## git show diferences
+git diff
+## git show diferences un stage
+git diff --stage
+## git view history
+git log
+## exit of this screen
+press "Q"
+## git view history in oneline
+git log --oneline
+
+## git view branch
+git branch
+## git create and change branch
+git checkout -b branch_name

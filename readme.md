@@ -26,6 +26,8 @@ cd
 rm "file"
 ## move file
 mv "file" "directory"
+## view content file
+cat "file"
 
 ## git
 ## git init

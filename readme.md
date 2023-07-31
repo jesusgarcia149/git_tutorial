@@ -69,11 +69,12 @@ git log --oneline
 ## git view branch
 git branch
 ## git create and change branch
-<<<<<<< HEAD
 git checkout -b branch_name
 ## git change branch
 git checkout branch_name
+## git bring the change to the branch
+git merge branch_name
 
-=======
-git checkout -b branch_name
->>>>>>> secondary
+## git add to github
+- git remote add origin LINK
+- git push -u origin master

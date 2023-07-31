@@ -22,6 +22,10 @@ ls
 pwd
 ## change directory
 cd
+## remove file
+rm "file"
+## move file
+mv "file" "directory"
 
 ## git
 ## git init
@@ -37,3 +41,12 @@ git add <option>
 git add filename.txt
 ## git add all
 gid add .
+
+## git commit
+git commit -m "comment"
+## git remove file
+git rm "file"
+## git restore
+git restore --staged "file"
+## git discart changes
+git restore "file"

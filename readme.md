@@ -69,7 +69,11 @@ git log --oneline
 ## git view branch
 git branch
 ## git create and change branch
+<<<<<<< HEAD
 git checkout -b branch_name
 ## git change branch
 git checkout branch_name
 
+=======
+git checkout -b branch_name
+>>>>>>> secondary

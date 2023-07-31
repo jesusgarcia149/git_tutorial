@@ -68,7 +68,7 @@
 
 ## git view branch
 - git branch
-## git change branch
+## git create branch
 - git checkout branch_name
 ## git create and change branch
 - git checkout -b branch_name

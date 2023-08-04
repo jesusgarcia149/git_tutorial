@@ -74,6 +74,8 @@
 - git checkout -b branch_name
 ## git bring the change to the branch
 - git merge branch_name
+## git delete branch
+- git branch -d branch_name
 
 ## git add to github
 - git remote add origin LINK

@@ -78,3 +78,7 @@
 ## git add to github
 - git remote add origin LINK
 - git push -u origin master
+
+## github download to git
+- git remote add origin LINK
+- git pull origin master

@@ -84,3 +84,8 @@
 ## github download to git
 - git remote add origin LINK
 - git pull origin master
+
+## git clone
+- git clone <remote-repo-url>
+## git clone specifictly branch
+- git clone --branch <branchname> <remote-repo-url>
